@@ -235,4 +235,10 @@ function modifyArray(nums) {
 ### bitwise operators
  https://www.hackerrank.com/challenges/js10-bitwise/topics/javascript-bitwise-operators
  
-### 
+### Dates
+https://www.hackerrank.com/challenges/js10-date/topics/javascript-dates
+
+### Button containers
+https://www.hackerrank.com/challenges/js10-buttons-container/topics/javascript-button-container
+
+
